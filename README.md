@@ -2252,3 +2252,4 @@ Signed,
 - Tunap Paul ([@tunap](https://github.com/tunap)), Blockchain Evangelist
 - Anusree Prakash ([@anusreePrakash](https://github.com/anusreePrakash)), Developer, India
 - Farhan ([@FarhanRA](https://github.com/FarhanRA)),Software Engineer, Padalarang, Indonesia
+- Naman Bansal([@psifrous](https://github.com/psifrous)), Software Engineer, Delhi, India
